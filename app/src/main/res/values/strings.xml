@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NDKDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_native_str">GET NATIVE STR!</string>
+</resources>
